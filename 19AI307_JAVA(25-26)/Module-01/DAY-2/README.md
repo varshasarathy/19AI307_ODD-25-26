@@ -31,8 +31,8 @@ To develop a Java program that checks a given floor number and displays a specia
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: MOHAMED ABUTHAEER K
-RegisterNumber:  212224020030
+Developed by: VARSHA SARATHI
+RegisterNumber:  212223040233
 */
 ```
 
