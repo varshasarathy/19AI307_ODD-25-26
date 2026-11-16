@@ -21,8 +21,8 @@ To write a Java program that calculates the factorial of a given number using a 
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: MOHAMED ABUTHAEER K
-RegisterNumber:  212224020030
+Developed by: VARSHA SARATHI
+RegisterNumber:  212223040233
 */
 ```
 
